@@ -5,11 +5,17 @@ The million songs data set with distributed computing.
 It inclueds following parts:
 
 Data processing:
+
   Document overview
+  
   Data processing
+  
 Audio similarity:
+
   Feature analysis
+  
   Audio type classification with audio features (Binary and Multi-class)
+  
   Song Recommendations with ALS model
 
 File structure
